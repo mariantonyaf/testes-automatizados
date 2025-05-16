@@ -8,7 +8,7 @@ public class CalculadoraTest {
 
     @BeforeClass
     public static void iniciarSuite() {
-        System.out.println(">>> INÍCIO DOS TESTES <<<");
+        System.out.println(">>> INICIO DOS TESTES <<<\n");
     }
 
     @AfterClass
